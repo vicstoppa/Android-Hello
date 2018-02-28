@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Word</string>
+    <string name="label_nome">Nome:</string>
+    <string name="salvar">Salvar</string>
+    <string name="msg_seu_nome">O Seu nome é:\ </string>
+
+</resources>
